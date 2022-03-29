@@ -1,1 +1,1 @@
-## Machine Learning Algorithms Code from Scratch with Python
+# Machine Learning Algorithms from Scratch Using Python
