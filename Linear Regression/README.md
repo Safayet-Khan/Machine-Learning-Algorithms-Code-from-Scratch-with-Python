@@ -6,12 +6,12 @@
 - [**Normal Equation in Linear Regression**](https://github.com/Safayet-Khan/Machine-Learning-Algorithms-from-Scratch/blob/main/Linear%20Regression/normal_equation_linear_regression.py)
 
 ## Visualization
-- From [Univariate Linear Regression](https://github.com/Safayet-Khan/Machine-Learning-Algorithms-from-Scratch/blob/main/Linear%20Regression/univariate_linear_regression.py) script produces this linear regression model. 
+- From [univariate_linear_regression.py](https://github.com/Safayet-Khan/Machine-Learning-Algorithms-from-Scratch/blob/main/Linear%20Regression/univariate_linear_regression.py) script produces this linear regression model. 
 <p align="center">
   <img src="graphs/univariate_linear_regression_fit.png" width=700>
 </p>
 
-- From [**Multivariate Linear Regression**](https://github.com/Safayet-Khan/Machine-Learning-Algorithms-from-Scratch/blob/main/Linear%20Regression/multivariate_linear_regression.py) script produces this cost function graph. 
+- From [multivariate_linear_regression.py](https://github.com/Safayet-Khan/Machine-Learning-Algorithms-from-Scratch/blob/main/Linear%20Regression/multivariate_linear_regression.py) script produces this cost function graph. 
 <p align="center">
   <img src="graphs/cost_function_multivariate_linear_regression.png" width=700>
 </p>
