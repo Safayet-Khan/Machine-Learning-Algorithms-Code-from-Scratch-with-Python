@@ -1,5 +1,5 @@
 # Coding Linear Regression from Scratch Using Python
-Linear Regression is a [supervised learning algorithm](https://en.wikipedia.org/wiki/Supervised_learning). It can be used to predict the continuous number output `y` based on the given input value of `x`. Here, I have tried to write this algorithm from scratch just using [Python](https://www.python.org/). For simplification, this problem is being divided into 3 parts: 
+[Linear regression](https://en.wikipedia.org/wiki/Linear_regression) is a [supervised learning algorithm](https://en.wikipedia.org/wiki/Supervised_learning). It can be used to predict the continuous number output `y` based on the given input value of `x`. Here, I have tried to write this algorithm from scratch just using [Python](https://www.python.org/). For simplification, this problem is being divided into 3 parts: 
 
 - [**Univariate Linear Regression**](https://github.com/Safayet-Khan/Machine-Learning-Algorithms-from-Scratch/blob/main/Linear%20Regression/univariate_linear_regression.py)
 - [**Multivariate Linear Regression**](https://github.com/Safayet-Khan/Machine-Learning-Algorithms-from-Scratch/blob/main/Linear%20Regression/multivariate_linear_regression.py)
